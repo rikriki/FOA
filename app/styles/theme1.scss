@@ -1,0 +1,56 @@
+//Future airline pallettes
+$background:#ffffff;
+$foreground:#000000;
+
+$brand-color:#d02a23;
+$brand-color-highlight:#d9413c;
+$brand-grey:#b2b2b2;
+$brand-gold:#c29a60;
+$brand-blue:#518ea0;
+
+$brand-color-darker:darken($brand-color,40%);
+$brand-color-highlight-darker:darken($brand-color-highlight,40%);
+$brand-grey-darker:darken($brand-grey,40%);
+$brand-gold-darker:darken($brand-gold,40%);
+$brand-blue-darker:darken($brand-blue,40%);
+
+$brand-color-lighter:lighten($brand-color,40%);
+$brand-color-highlight-lighter:lighten($brand-color-highlight,40%);
+$brand-grey-lighter:lighten($brand-grey,40%);
+$brand-gold-lighter:lighten($brand-gold,40%);
+$brand-blue-lighter:lighten($brand-blue,40%);
+
+
+
+//apply to boostrap pallete
+//** Background color for `<body>`.
+$body-bg:               $background !default;
+
+//** Global text color on `<body>`.
+$text-color:            $foreground !default;
+
+//** Global textual link color.
+$link-color:            $brand-color !default;
+//** Link hover color set via `darken()` function.
+$link-hover-color:      darken($link-color, 15%) !default;
+//** Link hover decoration.
+$link-hover-decoration: underline !default;
+
+$gray:                   lighten($brand-grey, 33.5%) !default; // #555
+$gray-light:             lighten($gray, 46.7%) !default; // #777
+$gray-lighter:           lighten($gray, 93.5%) !default; // #eee
+$gray-dark:              lighten($gray, 20%) !default;   // #333
+
+$brand-primary:         $brand-gold;//darken(#428bca, 6.5%) !default; // #337ab7
+$brand-success:         $brand-blue !default;
+$brand-info:            $gray-dark !default;
+$brand-warning:         #f0ad4e !default;
+$brand-danger:          $brand-color !default;
+
+//Typography
+$font-size-base:          16px !default;
+$font-family-sans-serif:  Helvetica, Arial, sans-serif !default;
+$font-family-serif:       "Lucida Grande", "Times New Roman", Times, serif !default;
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+$font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
+$font-family-base:        $font-family-sans-serif !default;

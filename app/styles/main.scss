@@ -1,9 +1,70 @@
 @import 'vars';
 @import 'typography';
+@import 'base';
+@import 'theme1';
+@import "./bootstrap/glyphicons";
 
 body {
-  font-family: Helvetica, sans-serif;
-  color: $font-color--dark;
-  background-color: $background--light;
-  padding: $half-space;
+  font-family: $font-family-sans-serif;
+  // font-family:$icon-font-name;
+  color: $foreground;
+  background-color: $background;
+  margin: 0;
+  // padding: $half-space;
+}
+
+//Navigation
+
+#nav{
+	padding:0px;
+	margin:0px;
+	border-bottom: 1px solid $brand-grey;
+
+	display:flex;
+	align-items: center;
+}
+.company_logo{
+	a{
+		 font-size: 55px;
+	    background-color: $brand-color;
+	    color: $background;
+	    text-decoration: none;
+	    padding: 0 $padding-large-horizontal;
+	}
+}
+.search{
+	flex:1;
+	&__Input{
+		font-size: 28px;
+    	padding: 10px 7px;
+    	border: 0;
+	}
+
+
+}
+.navigation{
+	padding: 0;
+    margin: 0;
+	&__list{
+		float:left;
+		list-style:none
+
+	}
+	&__link{
+	    padding: $padding-large-horizontal+2 $padding-large-horizontal;
+	    
+
+	    color:$foreground;
+		font-weight: bold;
+	    text-decoration: none;
+	    &:first-child{
+	    	border-left: 1px solid $brand-grey;
+	    }
+	    &:hover,&.active{
+	    	background-color:$brand-color;
+	    	color:$background;
+	    	cursor:pointer;
+	    }
+
+	}
 }

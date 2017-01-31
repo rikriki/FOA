@@ -1,8 +1,12 @@
+<div ng-controller="cartCtrl">
+<p ng-click="riki()">asdasadsasd</p>
+	Items in your cart {{cart}}
+</div>
 <h1 class="heading -large">{{ home.title | ExampleFilter }}</h1>
 
 <h3 class="heading -medium">Here is a fancy number served up courtesy of Angular: <span class="number-example">{{ home.number }}</span></h3>
-
-<img src="images/angular.png" height="100" />
+<h2>{{ home.riki.name }}sssss</h2>
+<img ng-click="home.update()" src="images/angular.png" height="100" />
 <img src="images/gulp.png" height="100" />
 <img src="images/browserify.png" height="100" />
 

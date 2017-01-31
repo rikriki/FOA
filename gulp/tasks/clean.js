@@ -7,3 +7,10 @@ gulp.task('clean', function() {
   return del([config.buildDir]);
   
 });
+
+gulp.task('clean:bootstrap', function() {
+
+  return del(['./app/styles/bootstrap.scss']);
+  
+});
+

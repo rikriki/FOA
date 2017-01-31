@@ -7,11 +7,27 @@
       <title ng-bind="pageTitle"></title>
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width">
-
       <link rel="stylesheet" href="css/main.css">
   </head>
   <body>
+      <div id="nav" role="navigation" aria-label="main navigation" ng-controller="navCtrl">
+        <div class="company_logo" aria-label="company logo">
+          <a href="" class="glyphicon glyphicon-envelope"></a>
+        </div>
+        <div class="search">
+          <input type="text" aria-label="search" class="search__Input" placeholder="Search" />
+        </div>
+        <ul class="navigation">
+          <li class="navigation__list"><a ui-sref="Home" class="navigation__link">Home</a></li>
+          <li class="navigation__list"><a ui-sref="Module({module:'ads'})" class="navigation__link">Login</a></li>
+          <li class="navigation__list"><a ui-sref="Home" class="navigation__link active">Support</a></li>
+        </ul>
+      </div>
 
+      <div aria-label="cart" ng-controller="navCtrl">
+          <p ng-click="emit()">Emit</p>
+            Items in your cart {{cart}}
+      </div>
       <div ui-view></div>
 
       <script src="js/main.js"></script>

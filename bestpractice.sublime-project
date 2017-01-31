@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/Frederick/Desktop/rbc-coding-exercise/final"
+
+		},
+		{
+			"path": ".",
+			"folder_exclude_patterns":
+			[
+				"e2e",
+				// "node_modules",
+				"dist"
+			]
+		},
+		{
+			"path":"./node_modules/bootstrap-sass"
+		}
+	]
+}

@@ -1,0 +1,1688 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"entity",
+				"entity_items"
+			],
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"bas",
+				"baseViewPostRender"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"source",
+				"sources_connections"
+			],
+			[
+				"read",
+				"readFile"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"template",
+				"templateCache"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"Local",
+				"localStrategy"
+			],
+			[
+				"basi",
+				"basicinfo"
+			],
+			[
+				"getter",
+				"I-ImagePatternBuilder	init"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"m",
+				"main	method (main)"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"s",
+				"st	static"
+			],
+			[
+				"pu",
+				"pu	public"
+			],
+			[
+				"c",
+				"cl	class"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ho",
+				"homeView"
+			],
+			[
+				"refer",
+				"referrer"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"de",
+				"debugger"
+			],
+			[
+				"l",
+				"locals"
+			],
+			[
+				"card",
+				"card_number"
+			],
+			[
+				"Edito",
+				"EditorBaseView"
+			],
+			[
+				"Sid",
+				"SidetreeCell"
+			],
+			[
+				"data",
+				"datablocks"
+			],
+			[
+				"payment",
+				"payment_method"
+			],
+			[
+				"paymen",
+				"payment_method"
+			],
+			[
+				"busi",
+				"business_address_on"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cur",
+				"curURL"
+			],
+			[
+				"get",
+				"getText"
+			],
+			[
+				"tem",
+				"templateUrl"
+			],
+			[
+				"_",
+				"__dirname"
+			],
+			[
+				"ex",
+				"export_template"
+			],
+			[
+				"si",
+				"singlePDF"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"ac",
+				"accessToken"
+			],
+			[
+				"ge",
+				"getAttribute"
+			],
+			[
+				"tests",
+				"testsArray"
+			],
+			[
+				"test",
+				"testsArray"
+			],
+			[
+				"work",
+				"work_view"
+			],
+			[
+				"templ",
+				"templateUrl"
+			],
+			[
+				"main",
+				"main_view"
+			],
+			[
+				"ma",
+				"main_view"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"recursi",
+				"recursiveFields"
+			],
+			[
+				"field",
+				"fieldName"
+			],
+			[
+				"tas",
+				"tasksToupdate"
+			],
+			[
+				"modu",
+				"moduleName"
+			],
+			[
+				"mode",
+				"moduleName"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"new",
+				"new_value"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"b",
+				"be"
+			],
+			[
+				"old",
+				"oldModel"
+			],
+			[
+				"teh",
+				"then"
+			],
+			[
+				"we",
+				"webdriver"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"tags",
+				"tagsinput"
+			],
+			[
+				"r",
+				"render"
+			],
+			[
+				"Book",
+				"BookmarkFormView"
+			],
+			[
+				"dat",
+				"dataToDel"
+			],
+			[
+				"e",
+				"equal"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"res",
+				"reset"
+			],
+			[
+				"add",
+				"addAllTodoItems"
+			],
+			[
+				"curr",
+				"currentUser"
+			],
+			[
+				"render",
+				"renderHomepage"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"progress",
+				"progressElement"
+			],
+			[
+				"img",
+				"imgCache"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"images",
+				"imagesToLoad"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"it",
+				"itinerary"
+			],
+			[
+				"cu",
+				"currentPageSlide"
+			],
+			[
+				"curren",
+				"currentSlide"
+			],
+			[
+				"Drag",
+				"DragSlideshow"
+			],
+			[
+				"max",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/nav.html",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/theme1.scss",
+			"settings":
+			{
+				"buffer_size": 2090,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/main.scss",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/base.scss",
+			"settings":
+			{
+				"buffer_size": 32302,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulp/config.js",
+			"settings":
+			{
+				"buffer_size": 1164,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/partials",
+		"/Users/Frederick/Desktop/bestpractice",
+		"/Users/Frederick/Desktop/bestpractice/app",
+		"/Users/Frederick/Desktop/bestpractice/app/js/controllers",
+		"/Users/Frederick/Desktop/bestpractice/app/js/directives",
+		"/Users/Frederick/Desktop/bestpractice/app/js/services",
+		"/Users/Frederick/Desktop/bestpractice/app/styles",
+		"/Users/Frederick/Desktop/bestpractice/app/views",
+		"/Users/Frederick/Desktop/bestpractice/gulp/tasks"
+	],
+	"file_history":
+	[
+		"/Users/Frederick/Desktop/rbc-coding-exercise/sample/stylesheets/bootstrap/theme1.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/sample/stylesheets/bootstrap/layout.scss",
+		"/Users/Frederick/Desktop/bestpractice/app/js/main.js",
+		"/Users/Frederick/Desktop/bestpractice/app/js/controllers/create.js",
+		"/Users/Frederick/Desktop/bestpractice/app/index.html",
+		"/Users/Frederick/Desktop/bestpractice/app/views/nav.html",
+		"/Users/Frederick/Desktop/bestpractice/app/js/controllers/example.js",
+		"/Users/Frederick/Desktop/bestpractice/app/js/services/example.js",
+		"/Users/Frederick/Desktop/bestpractice/app/js/on_config.js",
+		"/Users/Frederick/Desktop/bestpractice/app/views/create.html",
+		"/Users/Frederick/Desktop/bestpractice/app/js/controllers/cart.js",
+		"/Users/Frederick/Desktop/bestpractice/app/js/directives/example.js",
+		"/Users/Frederick/Desktop/bestpractice/app/js/controllers/index.js",
+		"/Users/Frederick/Desktop/bestpractice/app/js/controllers/nav.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/sample/stylesheets/bootstrap.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/sample/js/controllers/TransferCtrl.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/rationale.txt",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/partials/transfer-index.html",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/base.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/transfer_module.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/js/controllers/TransferCtrl.js",
+		"/Users/Frederick/Desktop/OFFLINEPROJ/portfolio2015/package.json",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/gulpfile.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/layout.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/package.json",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/server.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/sample/gulpfile.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/sample/package.json",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/sample/server.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/index.html",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/partials/footer.html",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/dist/index.html",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/dist/bootstrap.6dec97a7.css",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/js/app.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/js/services/service.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/js/services/user.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/js/controllers/todoCtrl.js",
+		"/Users/Frederick/Desktop/OFFLINEPROJ/portfolio2015/public/js/controllers.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/partials/todomvc-index.html",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/karaoke-form.scss",
+		"/Users/Frederick/Desktop/OFFLINEPROJ/portfolio2015/public/js/service_Portfolio.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/utilities.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/buttons.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/scaffolding.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_modals.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/dist/todo.47016e85.css",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/styles/todo.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/styles/mixins/buttons.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/final/styles/buttons.scss",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/js/services/index.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/js/controllers/example.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/js/on_run.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/js/constants.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/js/services/example.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/js/main.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/js/on_config.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/js/controllers/home.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/views/home.html",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/index.html",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/js/controllers/index.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/gulp/tasks/browserify.js",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test2/package.json",
+		"/Users/Frederick/Desktop/rbc-coding-exercise/test/gulpfile.js",
+		"/Users/Frederick/Desktop/Desktop/frederick/Frontend/HTML5/portfolio2015/public/js/dragslideshow.js",
+		"/Users/Frederick/Desktop/Desktop/frederick/Frontend/HTML5/portfolio2015/public/index2.html",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0_api/adcenter_api/lib/utils/modifiers.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0_api/adcenter_api/lib/utils/utils.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0_api/adcenter_api/lib/utils/query_methods.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0_api/adcenter_api/lib/utils/default_schema.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0_api/adcenter_api/lib/utils/query_utilities.js",
+		"/Users/Frederick/Desktop/4.0-api.sublime-workspace",
+		"/Volumes/NO NAME/static_ip.conf",
+		"/Volumes/NO NAME/wireless.conf",
+		"/Users/Frederick/Desktop/browserify/showtrckr/public/services/subscription.js",
+		"/Users/Frederick/Desktop/browserify/showtrckr/public/services/show.js",
+		"/Users/Frederick/Desktop/browserify/showtrckr/public/app.js",
+		"/Users/Frederick/Desktop/reducefilesize/config.txt",
+		"/Users/Frederick/Desktop/browserify/applebit/lib/api/server.js",
+		"/Users/Frederick/Desktop/browserify/showtrckr/public/controllers/main.js",
+		"/Volumes/G/linkedinVideos/mysql/Ex_Files_MySQL_EssT/Exercise Files/Chap09/sql-chap09.txt",
+		"/Volumes/G/linkedinVideos/mysql/Ex_Files_MySQL_EssT/Exercise Files/Chap05/sql-chap05.txt",
+		"/Volumes/G/linkedinVideos/mysql/Ex_Files_MySQL_EssT/Exercise Files/Chap03/sql-chap03.txt",
+		"/Users/Frederick/Desktop/Desktop/rikiPortfolio_demo/public/js/service_Portfolio.js",
+		"/Users/Frederick/Desktop/reducefilesize/config.txt.bk2",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/triggers/create_coupon.html",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/module_templates/feedables_interface.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/module_templates/connections_interface.js",
+		"/Users/Frederick/Desktop/webdriver/grant.js",
+		"/Users/Frederick/Downloads/brick.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/backgrid_utils/editors.js",
+		"/Users/Frederick/Desktop/webdriver/brick.js",
+		"/Users/Frederick/Desktop/Desktop/linux/reactR/node_modules/fsevents/node_modules/fs.realpath/package.json",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/views/base_view.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/backgrid_utils/cells.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/views/editor_base_view.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/views/edit_view.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/views/updatable_view.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/modules/sourceables.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/css/includes/tables.less",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/modules/feedables.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/utils/schema_types.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/views/mixins.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app-cov/css/includes/tables.less",
+		"/Users/Frederick/Desktop/4.0.sublime-project",
+		"/Users/Frederick/Desktop/browserify/react/adcenter.sublime-project",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/views/graph_view.js",
+		"/Users/Frederick/Desktop/browserify/showtrckr/public/index.html",
+		"/Users/Frederick/Desktop/browserify/showtrckr/public/services/user.js",
+		"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/templates/date_options.html",
+		"/Users/Frederick/Desktop/4.0-api.sublime-project",
+		"/Users/Frederick/Desktop/browserify/react/package.json",
+		"/Users/Frederick/Desktop/browserify/react/gulpfile.js",
+		"/Users/Frederick/Desktop/browserify/react/app/stylesheets/main.less",
+		"/Users/Frederick/Desktop/browserify/react/.gitignore",
+		"/Users/Frederick/Desktop/browserify/react/app/bower,json",
+		"/Users/Frederick/Desktop/hackathon-starter/views/api/twitter.pug",
+		"/Users/Frederick/Desktop/hackathon-starter/views/api/facebook.pug",
+		"/Users/Frederick/Desktop/hackathon-starter/views/account/users.pug",
+		"/Users/Frederick/Desktop/browserify/react/server.js",
+		"/Users/Frederick/Desktop/hackathon-starter/controllers/user.js",
+		"/Users/Frederick/Desktop/hackathon-starter/app.js",
+		"/Users/Frederick/Desktop/hackathon-starter/config/passport.js",
+		"/Users/Frederick/Desktop/hackathon-starter/controllers/api.js",
+		"/Users/Frederick/Desktop/hackathon-starter/views/layout.pug",
+		"/Users/Frederick/Desktop/hackathon-starter/controllers/home.js",
+		"/Users/Frederick/Desktop/hackathon-starter/views/home.pug"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Frederick/Desktop/rbc-coding-exercise/sample/stylesheets/bootstrap/mixins",
+			"/Users/Frederick/Desktop/rbc-coding-exercise/sample/stylesheets/bootstrap",
+			"/Users/Frederick/Desktop/rbc-coding-exercise/sample/stylesheets",
+			"/Users/Frederick/Desktop/rbc-coding-exercise/final/js",
+			"/Users/Frederick/Desktop/rbc-coding-exercise/final/node_modules/bootstrap-sass/assets/stylesheets/bootstrap",
+			"/Users/Frederick/Desktop/rbc-coding-exercise/final/js",
+			"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app/js",
+			"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app",
+			"/Users/Frederick/Desktop/rbc-coding-exercise/test2/gulp",
+			"/Users/Frederick/Desktop/rbc-coding-exercise/test2/app",
+			"/Users/Frederick/Desktop/Desktop/frederick/Frontend/HTML5/portfolio2015/public/js",
+			"/Users/Frederick/Desktop/hdd3/home/ricky/4.0_api/adcenter_api/lib",
+			"/Users/Frederick/Desktop/Desktop/rikiPortfolio_demo/public/js",
+			"/Users/Frederick/Desktop/browserify/showtrckr/public",
+			"/Users/Frederick/Desktop/browserify",
+			"/Users/Frederick/Desktop/browserify/showtrckr/public",
+			"/Volumes/G/linkedinVideos/mysql/Ex_Files_MySQL_EssT/Exercise Files",
+			"/Users/Frederick/Desktop/webdriver",
+			"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/",
+			"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/modules",
+			"/Users/Frederick/Desktop/browserify/showtrckr/public/controllers",
+			"/Users/Frederick/Desktop/browserify/hackathon-starter/views/api",
+			"/Users/Frederick/Desktop/browserify/hackathon-starter/public/views/api",
+			"/Users/Frederick/Desktop/browserify/showtrckr/public/views/api",
+			"/Users/Frederick/Desktop/browserify/showtrckr/public/controllers",
+			"/Users/Frederick/Desktop/browserify/applebit/lib/js/controller",
+			"/Users/Frederick/Desktop/browserify/showtrckr/public/controllers",
+			"/Users/Frederick/Desktop/browserify/applebit/lib/js/controller",
+			"/Users/Frederick/Desktop/browserify/tb/app/bower_components/angular-material/modules",
+			"/Users/Frederick/Desktop/browserify/lib/js",
+			"~/Desktop/hdd1/home/ricky/4.0/adcenter/app/js/",
+			"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/utils/globals",
+			"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/modules",
+			"/Users/Frederick/Desktop/hdd3/home/ricky/4.0_api/adcenter_api/lib/modules",
+			"/Users/Frederick/Desktop/hdd3/home/ricky/4.0/adcenter/app/js/modules",
+			"/Users/Frederick/Desktop/hdd1/4.0_api/adcenter_api/lib",
+			"/Users/Frederick/Desktop/hdd1/4.0_api/adcenter_api/lib/utils",
+			"/Users/Frederick/Desktop/adcenter_api/lib",
+			"/Users/Frederick/Desktop/hdd1/4.0_api/adcenter_api/lib",
+			"/Users/Frederick/Desktop/hdd1/4.0/adcenter/app/js",
+			"/Users/Frederick/Desktop/hdd1/4.0_api/adcenter_api/lib",
+			"/Users/Frederick/Desktop/hdd1/4.0/adcenter/app/js",
+			"/Users/Frederick/Desktop/hdd1/4.0_api/adcenter_api/lib",
+			"/Users/Frederick/Desktop/hdd1/4.0_api/adcenter_api/tests",
+			"/Users/Frederick/Desktop/Desktop",
+			"/Users/Frederick/Desktop/hdd/4.0_bookmarks_filterable/lib",
+			"/Users/Frederick/Desktop/server1/4.0_bookmarks_filterable/lib",
+			"/Users/Frederick/Desktop/server1/4.0_bookmarks_filterable/tests/modules",
+			"/Users/Frederick/Desktop/server1/4.0/adcenter/app/js/",
+			"/Users/Frederick/Desktop/server1/4.0/adcenter/app/js/views",
+			"/Users/Frederick/Desktop/server1/4.0/adcenter/app",
+			"/Users/Frederick/Desktop/hdd1/4.0_api/adcenter_api/lib",
+			"/Users/Frederick/Desktop/hdd1/4.0_api/adcenter_api/",
+			"/Users/Frederick/Desktop/hdd1/4.0_api/adcenter_api/lib",
+			"/Users/Frederick/Desktop/server1/4.0/adcenter/app/js/",
+			"/Users/Frederick/Desktop/server1/4.0/adcenter/app/js/views",
+			"/Users/Frederick/Desktop/db/4.0/adcenter/",
+			"/Users/Frederick/Desktop/db/4.0_api/adcenter_api/lib",
+			"/Users/Frederick/Desktop/db/4.0_api/adcenter_api",
+			"/Users/Frederick/Desktop/db/projects/adcenter_api_frontend/adcenter_api/lib",
+			"/Users/Frederick/Desktop/datablocks/projects/adcenter_api_frontend/adcenter_api/lib",
+			"/Users/Frederick/Desktop/server/4.0/adcenter/app/js/modules",
+			"/Users/Frederick/Desktop/Datablocks/adcenter_api/lib",
+			"/Users/Frederick/Desktop/project/adcenter/js",
+			"/Users/Frederick/Desktop/project/adcenter/locales/data/adshop.infolinks.com/en",
+			"/Users/Frederick/Desktop/project/adcenter/app/templates",
+			"/Users/Frederick/Desktop/project/adcenter/locales/data/adshop.infolinks.com/en",
+			"/Users/Frederick/Desktop/project/adcenter/locales/data/base/en",
+			"",
+			"/Users/Frederick/Desktop/project/adcenter/app/js",
+			"/Users/Frederick/Desktop/project/adcenter/app/templates",
+			"/Users/Frederick/Desktop/project/adcenter/app/js",
+			"/Users/Frederick/Desktop/Datablocks/adcenter_api/lib",
+			"/Users/Frederick/Desktop/project/adcenter",
+			"/Users/Frederick/Desktop/Datablocks/adcenter_api/lib",
+			"/Users/Frederick/Desktop/project/adcenter/app/js",
+			"/Users/Frederick/Desktop/requireApp/app/js",
+			"/Users/Frederick/Desktop/project/adcenter/app/js",
+			"",
+			"/Users/Frederick/Desktop/project/adcenter/app/js",
+			"",
+			"/Users/Frederick/Desktop/project/adcenter/app/js",
+			"/Users/Frederick/Desktop/project/adcenter",
+			"/Users/Frederick/Desktop/Datablocks/adcenter_api",
+			"/Users/Frederick/Desktop/project/adcenter/app/js/config.js",
+			"/Users/Frederick/Desktop/project/adcenter/app/js/views/edit_view.js",
+			"/Users/Frederick/Desktop/project/adcenter/app/js",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js",
+			"/Users/Frederick/Desktop/Datablocks/adcenter_api",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js/views",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js/backgrid_utils",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js/backgrid_utils",
+			"/Users/Frederick/Desktop/Datablocks/adcenter/app/js",
+			"/Users/Frederick/Desktop/Datablocks/adcenter_api/lib",
+			"/Users/Frederick/Desktop/Datablocks/adcenter_api/lib/utils",
+			"/Users/Frederick/Desktop/Datablocks/adcenter_api",
+			"/Users/Frederick/Desktop/Datablocks/adcenter_api/lib/modules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lighten",
+			"bower",
+			"hide",
+			"font-size",
+			"padding",
+			"test",
+			"sprite",
+			"todomvc",
+			"')\n",
+			"hide",
+			"glyphicons",
+			"component__row-image",
+			"  \n",
+			"bottom",
+			"box-shadow",
+			"margin",
+			"line-heig",
+			"border-radius",
+			"container",
+			"component-",
+			"background",
+			"background0",
+			"todo",
+			"cachebust",
+			"build-css",
+			"build-template-cache",
+			"dev",
+			"./node_modules/bootstrap-sass/assets/stylesheets/",
+			"./node_modules/bootstrap-sass/assets/stylesheets/*.scss",
+			"css",
+			"todo",
+			"html",
+			"css",
+			"watch",
+			"build-css",
+			"sass",
+			"todoapp",
+			"webserver",
+			"debug",
+			"true",
+			"build",
+			"debugger",
+			"todoStorage",
+			"*/\n",
+			"$http",
+			"_getFromLocalStorage",
+			"servicesModule",
+			"templates",
+			"ExampleFilter",
+			"service",
+			"AppSettings",
+			"home.html",
+			"Items",
+			"portfolios",
+			"ExampleCtrl",
+			"bulk-require",
+			"browserify",
+			"efts",
+			"choice",
+			"header",
+			"codrops-header",
+			"itemTitle",
+			"riki-button",
+			"rikiButton",
+			"content-switch",
+			"defaultButton",
+			"addEventListener",
+			"defaultButton",
+			"content-switch",
+			"    return '<button class=\"content-switch\">Read more</button>';\ndefault-button",
+			"default-button",
+			"webhooks",
+			"hook",
+			"ip",
+			"morgan",
+			"orderFormula",
+			"orderFormuka",
+			"formula",
+			"orderFormula",
+			"match_score",
+			"column: 'match_score'",
+			"orderArray",
+			"build_tuples",
+			"888",
+			"rikii",
+			"selected_fields",
+			"format_column",
+			"MATCH",
+			"order_by",
+			"state.getAll('order')",
+			"pickFromOperatingFields",
+			"order_fields",
+			"MATCH",
+			"`",
+			"`'",
+			"wallopSlider",
+			"dragger",
+			"portfolio",
+			"conten",
+			"$scope.contents",
+			"moment",
+			"emit",
+			"Access",
+			"());",
+			"portfolios",
+			"riki",
+			"send",
+			"res.send",
+			"left join",
+			"group",
+			"join",
+			"foreign",
+			"async",
+			"mas.percent",
+			"zcf_setting",
+			"zcf_settings",
+			"integer_unlimited",
+			">>>",
+			"templateData",
+			"Extendable",
+			"preRender",
+			"processTemplate",
+			"from_template",
+			"(\\d{4}),(\\d{4})",
+			"^(\\d{1,2}),([\\w .]+?)(\\w+?),(\\d{4})",
+			"^(\\d{1,2})",
+			"multicell",
+			"safeToRecurse"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"'",
+			"Date: $1 - Date: $2",
+			"$1,name: $3,$2,$4",
+			" ",
+			"editProfileForm",
+			";",
+			"actions.push(",
+			")",
+			"actions.push(",
+			")",
+			"[",
+			")],",
+			"),",
+			",",
+			"toggle($1),through(",
+			"turnon($1),through(",
+			"turnoff($1),through(",
+			"turnoff($2),through(",
+			"turnoff($1),through(",
+			"riki $1",
+			"riki",
+			"turnoff(\\w+)",
+			"turnoff($1)",
+			"<riki>$1",
+			"$1",
+			"turnoff($1)",
+			",",
+			",\\1",
+			",",
+			"  ",
+			" ",
+			",",
+			"",
+			" ,",
+			" ",
+			",",
+			"",
+			" ",
+			"Frederick"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/nav.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/styles/theme1.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1752,
+								1729
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/styles/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/styles/base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/sass-textmate-bundle/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1075.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "gulp/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 390.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "bestpractice.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"kara",
+				"stylesheets/bootstrap/karaoke-form.scss"
+			],
+			[
+				"utilies",
+				"stylesheets/bootstrap/utilities.scss"
+			],
+			[
+				"buttons",
+				"stylesheets/bootstrap/buttons.scss"
+			],
+			[
+				"utils",
+				"adcenter_api/lib/utils/utils.js"
+			],
+			[
+				"qu",
+				"adcenter_api/lib/utils/query_utilities.js"
+			],
+			[
+				"modifi",
+				"adcenter_api/lib/utils/modifiers.js"
+			],
+			[
+				"query_me",
+				"adcenter_api/lib/utils/query_methods.js"
+			],
+			[
+				"query",
+				"adcenter_api/lib/utils/query_utilities.js"
+			],
+			[
+				"cells",
+				"adcenter/app/js/backgrid_utils/cells.js"
+			],
+			[
+				"connect",
+				"adcenter/app/js/module_templates/connections_interface.js"
+			],
+			[
+				"editor_base",
+				"adcenter/app/js/views/editor_base_view.js"
+			],
+			[
+				"tables",
+				"adcenter/app/css/includes/tables.less"
+			],
+			[
+				"feeda",
+				"adcenter/app/js/modules/feedables.js"
+			],
+			[
+				"sourcea",
+				"adcenter/app/js/modules/sourceables.js"
+			],
+			[
+				"base_view",
+				"adcenter/app/js/views/base_view.js"
+			],
+			[
+				"edit_view",
+				"adcenter/app/js/views/edit_view.js"
+			],
+			[
+				"editor_as",
+				"adcenter/app/js/views/editor_base_view.js"
+			],
+			[
+				"edito",
+				"adcenter/app/js/backgrid_utils/editors.js"
+			],
+			[
+				"schema_types",
+				"adcenter/app/js/utils/schema_types.js"
+			],
+			[
+				"tables.less",
+				"app-cov/css/includes/tables.less"
+			],
+			[
+				"schema",
+				"app/js/utils/schema_types.js"
+			],
+			[
+				"sources",
+				"app/js/modules/sources.js"
+			],
+			[
+				"date_opti",
+				"adcenter/app/templates/date_options.html"
+			],
+			[
+				"graph_views",
+				"app/js/views/graph_view.js"
+			],
+			[
+				"fac",
+				"views/api/facebook.pug"
+			],
+			[
+				"server",
+				"server.js"
+			],
+			[
+				"editprofi",
+				"showtrckr/public/views/editProfile.html"
+			],
+			[
+				"edit",
+				"showtrckr/public/controllers/editProfile.js"
+			],
+			[
+				"auth.js",
+				"showtrckr/public/services/auth.js"
+			],
+			[
+				"valid",
+				"showtrckr/public/directives/validUser.js"
+			],
+			[
+				"edi",
+				"showtrckr/public/controllers/editProfile.js"
+			],
+			[
+				"",
+				"showtrckr/public/controllers/login.js"
+			],
+			[
+				"upda",
+				"adcenter/app/js/views/updatable_view.js"
+			],
+			[
+				"globals",
+				"adcenter/app/js/utils/globals.js"
+			],
+			[
+				"main_view",
+				"adcenter/app/js/views/main_view.js"
+			],
+			[
+				"add_conne",
+				"adcenter/app/js/views/add_connections_view.js"
+			],
+			[
+				"schema_ty",
+				"adcenter_api/lib/utils/schema_types.js"
+			],
+			[
+				"user",
+				"adcenter_api/lib-cov/modules/users.js"
+			],
+			[
+				"advertiser",
+				"adcenter_api/lib/modules/advertisers.js"
+			],
+			[
+				"invites",
+				"adcenter_api/lib/modules/invites.js"
+			],
+			[
+				"users.js",
+				"adcenter_api/lib/modules/users.js"
+			],
+			[
+				"login",
+				"adcenter_api/tests/modules/login.js"
+			],
+			[
+				"extra",
+				"adcenter_api/lib/utils/extra_routes.js"
+			],
+			[
+				"api.js",
+				"lib/api.js"
+			],
+			[
+				"api_runn",
+				"api_runner.js"
+			],
+			[
+				"extra_routes",
+				"lib/utils/extra_routes.js"
+			],
+			[
+				"self",
+				"adcenter_api/tests/units/selfServe_charge.js"
+			],
+			[
+				"confi",
+				"adcenter_api/tests/config.js"
+			],
+			[
+				"cover",
+				"adcenter_api/tests/units/coverage.js"
+			],
+			[
+				"sona",
+				"adcenter_api/sonar-project.properties"
+			],
+			[
+				"charges",
+				"adcenter/app/js/modules/charges.js"
+			],
+			[
+				"editors",
+				"adcenter/app/js/backgrid_utils/editors.js"
+			],
+			[
+				"browse",
+				"lib/modules/browsers.js"
+			],
+			[
+				"editor",
+				"app/js/backgrid_utils/editors.js"
+			],
+			[
+				"paymen",
+				"app/js/modules/payment_methods.js"
+			],
+			[
+				"cam",
+				"adcenter/app/js/modules/campaigns.js"
+			],
+			[
+				"forma",
+				"adcenter/app/js/backgrid_utils/formatters.js"
+			],
+			[
+				"cell",
+				"adcenter/app/js/backgrid_utils/cells.js"
+			],
+			[
+				"payment",
+				"adcenter/app/js/modules/payment_methods.js"
+			],
+			[
+				"book",
+				"lib/modules/bookmarks.js"
+			],
+			[
+				"heir",
+				"lib/hierarchy.js"
+			],
+			[
+				"detai",
+				"lib/modules/detailed_reports.js"
+			],
+			[
+				"theme",
+				"lib/modules/themes.js"
+			],
+			[
+				"bookmark",
+				"Datablocks_final/app/scripts/models/bookmark-model.js"
+			],
+			[
+				"main",
+				"Datablocks_final/app/scripts/main.js"
+			],
+			[
+				"radio.",
+				"adcenter/app/templates/cells/radio.html"
+			],
+			[
+				"select.html",
+				"adcenter/app/templates/cells/select.html"
+			],
+			[
+				"backgrideditor",
+				"adcenter/bower_components/backgrid/api/output/Backgrid.InputCellEditor.js"
+			],
+			[
+				"char",
+				"app/js/modules/charges.js"
+			],
+			[
+				"advertisersed",
+				"app/js/views/advertisers_edit_view.js"
+			],
+			[
+				"carded",
+				"app/js/views/card_edit_view.js"
+			],
+			[
+				"browsers_cell",
+				"app/templates/cells/browsers_cell.html"
+			],
+			[
+				"schem",
+				"app/js/utils/schema_types.js"
+			],
+			[
+				"schema_tools",
+				"lib/utils/schema_tools.js"
+			],
+			[
+				"webdriver.js",
+				"adcenter_api/node_modules/browserstack-webdriver/lib/webdriver/webdriver.js"
+			],
+			[
+				"charge",
+				"adcenter_locales/data/adshop.infolinks.com/en/html/customTemplate/charge.html"
+			],
+			[
+				"export_fa",
+				"lib/utils/export_factory.js"
+			],
+			[
+				"tabular_collection",
+				"app/js/collections/tabular_collection.js"
+			],
+			[
+				"tabular",
+				"app/js/views/tabular_view.js"
+			],
+			[
+				"welcomeno",
+				"app/templates/welcome_no_campaigns.html"
+			],
+			[
+				"filtercel",
+				"app/js/backgrid_utils/filters_cell.js"
+			],
+			[
+				"alerts",
+				"locales/data/base/en/alerts.json"
+			],
+			[
+				"agencies",
+				"locales/data/base/en/agencies.json"
+			],
+			[
+				"agencies.",
+				"locales/data/adcenter.ntent.com/ru/agencies.json"
+			],
+			[
+				"theme.json",
+				"locales/data/base/en/themes.json"
+			],
+			[
+				"config",
+				"Datablocks/adcenter_api/tests/config.js"
+			],
+			[
+				"documentation_v",
+				"adcenter/app/js/views/documentation_view.js"
+			],
+			[
+				"base_v",
+				"adcenter/app/js/views/base_view.js"
+			],
+			[
+				"updatab",
+				"adcenter/app/js/views/updatable_view.js"
+			],
+			[
+				"column",
+				"requireApp/app/bower_components/backgrid/src/column.js"
+			],
+			[
+				"base_",
+				"adcenter/app/js/models/base_column.js"
+			],
+			[
+				"valida",
+				"adcenter/app/js/utils/validators.js"
+			],
+			[
+				"create.js",
+				"Datablocks/adcenter_api/tests/units/create.js"
+			],
+			[
+				"action",
+				"Datablocks/adcenter_api/tests/utils/actions.js"
+			],
+			[
+				"adcenter.ls",
+				"adcenter/app/css/adcenter.less"
+			],
+			[
+				"adcentere",
+				"requireApp/app/css/adcenter.less"
+			],
+			[
+				"confirm_dis",
+				"adcenter/app/templates/confirm_discard.html"
+			],
+			[
+				"main_",
+				"adcenter/app/js/views/main_view.js"
+			],
+			[
+				"bulk",
+				"adcenter/app/js/views/bulk_changes_view.js"
+			],
+			[
+				"edit_",
+				"adcenter/app/js/views/edit_view.js"
+			],
+			[
+				"views",
+				"requireApp/app/js/views.js"
+			],
+			[
+				"main_v",
+				"requireApp/app/js/views/main_view.js"
+			],
+			[
+				"view",
+				"requireApp/app/js/view.js"
+			],
+			[
+				"resume",
+				"requireApp/app/js/models/resume.js"
+			],
+			[
+				"main.html",
+				"adcenter/app/templates/main.html"
+			],
+			[
+				"base_vi",
+				"adcenter/app/js/views/base_view.js"
+			],
+			[
+				"main.",
+				"adcenter/app/templates/main.html"
+			],
+			[
+				"updatable",
+				"adcenter/app/js/views/updatable_view.js"
+			],
+			[
+				"math",
+				"requireApp/app/js/utils/math.js"
+			],
+			[
+				"deub",
+				"requireApp/app/js/utils/debug.js"
+			],
+			[
+				"debug",
+				"requireApp/app/js/utils/debug.js"
+			],
+			[
+				"debu",
+				"requireApp/node_modules/debug/debug.js"
+			],
+			[
+				"cssva",
+				"adcenter/app/js/data/cssVars.json"
+			],
+			[
+				"app",
+				"adcenter/app/js/app.js"
+			],
+			[
+				"pace",
+				"adcenter/app/bower_components/pace/pace.js"
+			],
+			[
+				"adver",
+				"adcenter/app/js/advertisement.js"
+			],
+			[
+				"backgrid-paginator",
+				"adcenter/app/bower_components/backgrid-paginator/backgrid-paginator.js"
+			],
+			[
+				"handlebars",
+				"adcenter/app/bower_components/handlebars/handlebars.js"
+			],
+			[
+				"bootstrap-datetimepicker",
+				"adcenter/app/bower_components/smalot-bootstrap-datetimepicker/js/bootstrap-datetimepicker.js"
+			],
+			[
+				"cellselect",
+				"adcenter/app/templates/cells/select.html"
+			],
+			[
+				"backgrid.he",
+				"adcenter/app/bower_components/backgrid/api/output/Backgrid.Header.js"
+			],
+			[
+				"multi_view",
+				"adcenter/app/js/views/multi_footer_view.js"
+			],
+			[
+				"basemode",
+				"adcenter/app/js/models/base_model.js"
+			],
+			[
+				"header",
+				"adcenter/app/js/backgrid_utils/headers.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 950.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

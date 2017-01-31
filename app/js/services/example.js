@@ -2,7 +2,7 @@ function ExampleService($http) {
   'ngInject';
 
   const service = {};
-
+  let foo = {name:'riki'}
   service.get = function() {
     return new Promise((resolve, reject) => {
       $http.get('apiPath').success((data) => {
@@ -12,6 +12,14 @@ function ExampleService($http) {
       });
     });
   };
+  service.riki =function(){
+    return foo
+  }
+  service.rikia =function(){
+    foo = {name:'riki s'}
+    return foo;
+  }
+  service.cart =0;
 
   return service;
 

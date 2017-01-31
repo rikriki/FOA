@@ -8,7 +8,7 @@ export default {
   buildDir: './build/',
 
   styles: {
-    src: 'app/styles/**/*.scss',
+    src: 'app/styles/*.scss',
     dest: 'build/css',
     prodSourcemap: false,
     sassIncludePaths: []
@@ -27,7 +27,7 @@ export default {
   },
 
   fonts: {
-    src: ['app/fonts/**/*'],
+    src: ['./node_modules/bootstrap-sass/assets/fonts/bootstrap/*'],
     dest: 'build/fonts'
   },
 
