@@ -22,6 +22,44 @@
           <li class="navigation__list"><a ui-sref="Module({module:'ads'})" class="navigation__link">Login</a></li>
           <li class="navigation__list"><a ui-sref="Home" class="navigation__link active">Support</a></li>
         </ul>
+          <uib-accordion>
+            <div uib-accordion-group class="panel-default" is-open="status.open">
+              <uib-accordion-heading>
+                I can have markup, too! <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+              </uib-accordion-heading>
+              This is just some content to illustrate fancy headings.
+            </div>
+          </uib-accordion>
+      </div>
+     
+      
+
+
+      <div id="main">
+        <section id="hero_panel">
+        </section>
+        <section id="booking_panel">
+            <ul class="nav nav-tabs">
+              <li class="active"><a data-toggle="tab" href="#Round">Round trip</a></li>
+              <li><a data-toggle="tab" href="#one">One way</a></li>
+              <li><a data-toggle="tab" href="#multi">Multi city</a></li>
+            </ul>
+
+            <div class="tab-content">
+              <div id="round" class="tab-pane fade in active">
+                <h3>HOME</h3>
+                <p>Some content.</p>
+              </div>
+              <div id="one" class="tab-pane fade">
+                <h3>Menu 1</h3>
+                <p>Some content in menu 1.</p>
+              </div>
+              <div id="multi" class="tab-pane fade">
+                <h3>Menu 2</h3>
+                <p>Some content in menu 2.</p>
+              </div>
+            </div>
+        </section>
       </div>
 
       <div aria-label="cart" ng-controller="navCtrl">

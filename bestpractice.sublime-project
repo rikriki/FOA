@@ -2,7 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "/Users/Frederick/Desktop/rbc-coding-exercise/final"
+			"path": "/Users/ricky/desktop/aws/foa"
 
 		},
 		{
@@ -10,12 +10,15 @@
 			"folder_exclude_patterns":
 			[
 				"e2e",
-				// "node_modules",
+				"node_modules",
 				"dist"
 			]
 		},
 		{
 			"path":"./node_modules/bootstrap-sass"
+		},
+		{
+			"path":"./node_modules/angular-ui-bootstrap"
 		}
 	]
 }
