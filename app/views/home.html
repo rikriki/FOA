@@ -1,14 +1,63 @@
+<div id="main">
+    <section id="hero_panel">
+    </section>
+    <section id="booking_panel">
+        <uib-tabset active="active" justified="true">
+            
+            
+            <uib-tab heading="Round trip">
+                <div class="booking_panel_location">
+                    <div class="input_form input_city">
+                        <label class="input_city__label">From</label>
+                        <input  class="input_city__input" type="text" placeholder="Stockholm, Sweden" />
+                    </div>
+                    <div class="input_form input_city">
+                        <label class="input_city__label">To</label>
+                        <input  class="input_city__input" type="text" placeholder="New york, New york" />
+                    </div>
+                </div>                    
+                <div class="booking_panel_dates">
+                    <div class="input_form input_container">
+                        <label class="input_container__title">Depart</label>
+                        <div class="input_container__middle">
+                            <label class="input_container__middle__left">12</label>
+                            <div class="input_container__middle__right">
+                                <span>Jun</span>
+                                <span>2014</span>
+                            </div>
+                        </div>
+                        <button class="input_container__button">Change date</button>
+                    </div>
+                    <div class="input_form input_container">
+                        <label class="input_container__title">Depart</label>
+                        <div class="input_container__middle">
+                            <label class="input_container__middle__left">12</label>
+                            <div class="input_container__middle__right">
+                                <span>Jun</span>
+                                <span>2014</span>
+                            </div>
+                        </div>
+                        <button class="input_container__button">Change date</button>
+                    </div>
+                </div>    
+            </uib-tab>
+            <uib-tab heading="One way">
+                One way
+            </uib-tab>
+            <uib-tab heading="Multi trip">
+                Multi trip
+            </uib-tab>
+            
+        </uib-tabset>
+    </section>
+</div>
+
+
+
+
+<!-- 
+
 <div ng-controller="cartCtrl">
-<p ng-click="riki()">asdasadsasd</p>
 	Items in your cart {{cart}}
 </div>
-<h1 class="heading -large">{{ home.title | ExampleFilter }}</h1>
-
-<h3 class="heading -medium">Here is a fancy number served up courtesy of Angular: <span class="number-example">{{ home.number }}</span></h3>
-<h2>{{ home.riki.name }}sssss</h2>
-<img ng-click="home.update()" src="images/angular.png" height="100" />
-<img src="images/gulp.png" height="100" />
-<img src="images/browserify.png" height="100" />
-
-<hr/>
-<div example-directive title="WOW!" click-message="You clicked me!">Directive is not loaded.</div>
+ -->
