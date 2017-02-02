@@ -3,6 +3,9 @@
  * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+@import 'theme1';
+
+
 
 // Core variables and mixins
 @import "bootstrap/variables";
@@ -56,8 +59,7 @@
 @import "bootstrap/responsive-utilities";
 
 
-@import 'base';
-@import 'theme1';
+
 @import "./bootstrap/glyphicons";
 
 body {
@@ -129,11 +131,11 @@ body {
 	display:flex;
 	height:100vh;
 }
-#hero_panel{
+#left_panel{
 flex:1;
 background:url('../images/beach.jpg') top left / cover no-repeat;
 }
-#booking_panel{
+#right_panel{
 
 	width:$booking_panel_width;
 	.nav{
@@ -143,20 +145,23 @@ background:url('../images/beach.jpg') top left / cover no-repeat;
 		
 		&.active a{
 			background-color:$panel-background-color;
-			border:1px solid $gray;
+			border:1px solid $panel-border-color;
 			border-bottom:none;
 			border-top:none;
+			&:first-child{
+				border-left: none;
+			}
 			&:hover{
 				border-color:transparent $gray;
 				
 			}
 		}
 		a{
-			background-color:$tab-background-color;
+			background-color:$panel-tab-background-color;
 			color:$background;
 			font-weight:bold;
 			border-radius: 0;
-			border-bottom:1px solid $gray-dark;
+			border-bottom:1px solid $border-color-default;
 			padding:$booking_panel_padding;
 			&:hover{
 				border-color:transparent;
@@ -164,20 +169,22 @@ background:url('../images/beach.jpg') top left / cover no-repeat;
 			}
 		}
 	}
+
+}
+textarea, input, button { outline: none; }
+.booking_panel{
 	.tab-pane{
 		height:100vh;
 		background-color:$panel-background-color;
 		padding:$booking_panel_padding;
-		
-	}
 
+	}
 }
-textarea, input, button { outline: none; }
 .input_form{
 	background-color:$background;
 	color:$foreground;
 	padding:$input_text_padding;
-	margin:$input_text_padding;
+	margin: $input_text_padding 0 ; 
 }
 .input_city{
 	display:flex;
@@ -199,7 +206,7 @@ textarea, input, button { outline: none; }
 }
 
 .input_container{
-	width:44.6%;
+	width:49.4%;
 	display:inline-block;
 	&__title{
 		color:$gray-light;
@@ -211,7 +218,7 @@ textarea, input, button { outline: none; }
 		padding:$padding-base-vertical $padding-base-horizontal;
 		width:100%;
 		background:$gray-lighter;
-		border:1px solid $gray-light;
+		border:1px solid $border-color-default;
 		&:hover{
 			background-color:$brand-color;
 			color:$background;
@@ -224,7 +231,8 @@ textarea, input, button { outline: none; }
 	    &__left {
 	        font-weight: 500;
 			font-size: 65px;
-    		margin-right: 15px;
+    		margin-right: 20px;
+    		letter-spacing: -7px;
 		}
 	    &__right {
 	        span {
@@ -234,4 +242,42 @@ textarea, input, button { outline: none; }
 	    }
 	}
 }
+
+.input_container-small {
+    width: 32.5%;
+    .input_container__middle {
+    	&__left {
+    		margin-right: 10px;
+    	}
+        &__right {
+            span {
+                display: block;
+                font-size: $font-size-base;
+            }
+        }
+    }
+}
+.input_flight_classes{
+	width:100%;
+	margin: $input_text_padding 0 ; 
+	button{
+		width: 100%;
+	    text-align: left;
+	    position: relative;
+	    border-radius:0;
+	    span{
+	    	position:absolute;
+	    	right:10px;
+	    	top:45%;
+	    }
+	}
+	ul{
+		width: 100%;
+	}
+}
+.booking_panel__buttons{
+	display:flex
+	
+}
+
 

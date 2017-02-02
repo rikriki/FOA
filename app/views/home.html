@@ -1,11 +1,12 @@
 <div id="main">
-    <section id="hero_panel">
+    <section id="left_panel">
     </section>
-    <section id="booking_panel">
-        <uib-tabset active="active" justified="true">
+    <section id="right_panel">
+        <uib-tabset active="active" justified="true" class="booking_panel">
             
             
-            <uib-tab heading="Round trip">
+            <uib-tab heading="Round trip" >
+                
                 <div class="booking_panel_location">
                     <div class="input_form input_city">
                         <label class="input_city__label">From</label>
@@ -15,7 +16,8 @@
                         <label class="input_city__label">To</label>
                         <input  class="input_city__input" type="text" placeholder="New york, New york" />
                     </div>
-                </div>                    
+                </div> 
+
                 <div class="booking_panel_dates">
                     <div class="input_form input_container">
                         <label class="input_container__title">Depart</label>
@@ -39,8 +41,62 @@
                         </div>
                         <button class="input_container__button">Change date</button>
                     </div>
-                </div>    
+                </div>
+
+                <div class="booking_panel_passenger">
+                    <div class="input_form input_container input_container-small">
+                        <label class="input_container__title">Adult</label>
+                        <div class="input_container__middle">
+                            <label class="input_container__middle__left">1</label>
+                            <div class="input_container__middle__right">
+                                <span>12+</span>
+                                <span>years</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input_form input_container input_container-small">
+                        <label class="input_container__title">Children</label>
+                        <div class="input_container__middle">
+                            <label class="input_container__middle__left">1</label>
+                            <div class="input_container__middle__right">
+                                <span>2-12</span>
+                                <span>years</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input_form input_container input_container-small">
+                        <label class="input_container__title">Infants</label>
+                        <div class="input_container__middle">
+                            <label class="input_container__middle__left">1</label>
+                            <div class="input_container__middle__right">
+                                <span>0-23</span>
+                                <span>months</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="btn-group input_flight_classes" uib-dropdown is-open="status.isopen">
+                  <button id="single-button" type="button" class="btn btn-default" uib-dropdown-toggle ng-disabled="disabled">
+                    All flight classes <span class="caret"></span>
+                  </button>
+                  <ul class="dropdown-menu" uib-dropdown-menu role="menu" aria-labelledby="single-button">
+                    <li role="menuitem"><a href="#">Action</a></li>
+                    <li role="menuitem"><a href="#">Another action</a></li>
+                    <li role="menuitem"><a href="#">Something else here</a></li>
+                    <li class="divider"></li>
+                    <li role="menuitem"><a href="#">Separated link</a></li>
+                  </ul>
+                </div>
+
+                <div class="booking_panel__buttons">
+                    <button class="input_container__button">Reset</button>
+                    <button class="input_container__button">Search</button>
+                </div>
+                
+
             </uib-tab>
+
             <uib-tab heading="One way">
                 One way
             </uib-tab>

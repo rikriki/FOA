@@ -10,7 +10,7 @@ gulp.task('clean', function() {
 
 gulp.task('clean:bootstrap', function() {
 
-  return del(['./app/styles/bootstrap.scss']);
+  return del(['./app/styles/bootstrap']);
   
 });
 
