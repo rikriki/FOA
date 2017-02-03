@@ -1,8 +1,9 @@
-function navCtrl(ExampleService,$scope,$rootScope) {
+function navCtrl(ExampleService,$scope,$rootScope,LOGINSERVICE) {
 
   // ViewModel
   $scope.cart = 0; 
   $scope.cart = ExampleService.cart;
+  
   // $scope.$watch(function(){
   //       return ExampleService.cart;
   //     }, function(newVal, oldVal){
@@ -15,6 +16,15 @@ function navCtrl(ExampleService,$scope,$rootScope) {
   $rootScope.$on('update-cart',function(scope,data){
     $scope.cart = data
   })
+  
+
+  LOGINSERVICE.subscribe($scope,function(event,data){
+    $scope.$apply(()=>{
+     $scope.currentUser = data.user   
+    })
+  })
+
+
   
 }
 

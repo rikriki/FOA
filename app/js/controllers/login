@@ -1,0 +1,22 @@
+function LoginModalCtrl($scope) {
+ this.username = 'asdadaa'
+  this.cancel = $scope.$dismiss;
+  this.submit = function (email, password) {
+    debugger
+      console.log(email,'/',password)
+      $scope.$close({username:'riki'});
+  };
+  // this.submit = function (email, password) {
+  //   UsersApi.login(email, password).then(function (user) {
+  //     $scope.$close(user);
+  //   });
+  // };
+
+}
+
+export default {
+  name: 'LoginModalCtrl',
+  fn: LoginModalCtrl
+};
+
+

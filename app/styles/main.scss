@@ -172,11 +172,12 @@ background:url('../images/beach.jpg') top left / cover no-repeat;
 
 }
 textarea, input, button { outline: none; }
-.booking_panel{
+#right_panel{
 	.tab-pane{
-		height:100vh;
+		height:93.5vh;
 		background-color:$panel-background-color;
 		padding:$booking_panel_padding;
+		overflow: scroll
 
 	}
 }
@@ -277,7 +278,7 @@ textarea, input, button { outline: none; }
 }
 .booking_panel__buttons{
 	display:flex
-	
+
 }
 
 

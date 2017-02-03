@@ -14,16 +14,35 @@ function OnConfig($stateProvider, $locationProvider, $urlRouterProvider, $compil
     url: '/',
     controller: 'ExampleCtrl as home',
     templateUrl: 'home.html',
-    title: 'Home'
+    title: 'Home',
+    data:{
+      requireLogin:true
+    }
   })
   .state('Module', {
     url: '/:module/create',
     controller: 'CreateCtrl as create',
     templateUrl: 'create.html',
-    title: 'Create'
-  });
+    title: 'Create',
+    data:{
+      requireLogin:true
+    }
+  })
+  .state('login',{
+    url:'/login',
+    controller: 'LoginModalCtrl as login',
+    title: 'Login',
+    templateUrl: 'login.html',
+    data:{
+      requireLogin:false
+    }
+
+  })
+  ;
 
   $urlRouterProvider.otherwise('/');
+
+ 
 
 }
 

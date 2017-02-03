@@ -1,4 +1,4 @@
-function OnRun($rootScope, AppSettings) {
+function OnRun($rootScope,$state, AppSettings) {
   'ngInject';
 
   // change page title based on state
@@ -13,6 +13,17 @@ function OnRun($rootScope, AppSettings) {
     $rootScope.pageTitle += AppSettings.appTitle;
   });
 
+  $rootScope.$on('$stateChangeStart',(event,toState,toParams)=>{
+    // debugger;
+    
+    var requireLogin = toState.data.requireLogin;
+    if (requireLogin && typeof $rootScope.currentUser === 'undefined') {
+      event.preventDefault();
+      $state.go('login');
+    }
+  })
+
 }
 
 export default OnRun;
+

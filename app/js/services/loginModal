@@ -1,0 +1,29 @@
+function loginModal($uibModal,$rootScope) {
+  'ngInject';
+
+
+
+  function assignCurrentUser=(user)=>{
+     $rootScope.currentUser = user;
+     return user;
+  }
+
+
+
+
+  return function() {
+    var instance = $modal.open({
+      templateUrl: 'views/loginModalTemplate.html',
+      controller: 'LoginModalCtrl',
+      controllerAs: 'LoginModalCtrl'
+    })
+
+    return instance.result.then(assignCurrentUser);
+  };
+
+}
+
+export default {
+  name: 'loginModal',
+  fn: loginModal
+};

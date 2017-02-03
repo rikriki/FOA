@@ -1,25 +1,24 @@
 <div id="main">
     <section id="left_panel">
     </section>
+
     <section id="right_panel">
-        <uib-tabset active="active" justified="true" class="booking_panel">
-            
-            
+        <uib-tabset active="active" justified="true" arial-label="Booking tabs">
             <uib-tab heading="Round trip" >
                 
                 <div class="booking_panel_location">
                     <div class="input_form input_city">
-                        <label class="input_city__label">From</label>
-                        <input  class="input_city__input" type="text" placeholder="Stockholm, Sweden" />
+                        <label class="input_city__label" for="From">From</label>
+                        <input id="From"  class="input_city__input" type="text" placeholder="Stockholm, Sweden" />
                     </div>
                     <div class="input_form input_city">
-                        <label class="input_city__label">To</label>
-                        <input  class="input_city__input" type="text" placeholder="New york, New york" />
+                        <label class="input_city__label" for="To">To</label>
+                        <input id="To" class="input_city__input" type="text" placeholder="New york, New york" />
                     </div>
                 </div> 
 
                 <div class="booking_panel_dates">
-                    <div class="input_form input_container">
+                    <div class="input_form input_container" role="Date picker for Departure">
                         <label class="input_container__title">Depart</label>
                         <div class="input_container__middle">
                             <label class="input_container__middle__left">12</label>
@@ -30,8 +29,8 @@
                         </div>
                         <button class="input_container__button">Change date</button>
                     </div>
-                    <div class="input_form input_container">
-                        <label class="input_container__title">Depart</label>
+                    <div class="input_form input_container" role="Date picker for Arrival">
+                        <label class="input_container__title">Arrival</label>
                         <div class="input_container__middle">
                             <label class="input_container__middle__left">12</label>
                             <div class="input_container__middle__right">

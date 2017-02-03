@@ -3,22 +3,15 @@
 	[
 		{
 			"path": "/Users/ricky/desktop/aws/foa"
-
 		},
 		{
-			"path": ".",
-			"folder_exclude_patterns":
-			[
-				"e2e",
-				"node_modules",
-				"dist"
-			]
+			"path": "node_modules/bootstrap-sass"
 		},
 		{
-			"path":"./node_modules/bootstrap-sass"
+			"path": "node_modules/angular-ui-bootstrap"
 		},
 		{
-			"path":"./node_modules/angular-ui-bootstrap"
+			"path": "auth0"
 		}
 	]
 }
