@@ -12,9 +12,18 @@ function ExampleCtrl(ExampleService,$rootScope) {
     { title:'Multi trip', content:'Dynamic content 3' }
   ];
 
+  vm.dateFrom='01/12/2016';
   vm.update=()=>{
   	console.log('Yow')
   	$rootScope.$broadcast('customEvent',{data:'Riki rosales'})
+  }
+
+  vm.results = {
+    from:vm.from || '',
+    to:vm.to || '',
+    dateFrom:vm.dateFrom,
+    dateTo:vm.dateTo || '',
+
   }
 }
 

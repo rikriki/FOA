@@ -13,7 +13,7 @@ function OnRun($rootScope,$state, AppSettings) {
     $rootScope.pageTitle += AppSettings.appTitle;
   });
 
-  $rootScope.$on('$stateChangeStart',(event,toState,toParams)=>{
+  $rootScope.$on('$stateChangeStart',(event,toState)=>{
     // debugger;
     
     var requireLogin = toState.data.requireLogin;

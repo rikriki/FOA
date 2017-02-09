@@ -18,6 +18,7 @@
                 </div> 
 
                 <div class="booking_panel_dates">
+                    <div date-directive title="WOW!" date-from="{{home.dateFrom}}" click-message="You clicked me!">Directive is not loaded.</div>
                     <div class="input_form input_container" role="Date picker for Departure">
                         <label class="input_container__title">Depart</label>
                         <div class="input_container__middle">
@@ -92,6 +93,8 @@
                     <button class="input_container__button">Reset</button>
                     <button class="input_container__button">Search</button>
                 </div>
+
+                <div><h1>Results</h1>{{home.results}}</div>
                 
 
             </uib-tab>

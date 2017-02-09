@@ -16,7 +16,7 @@ function OnConfig($stateProvider, $locationProvider, $urlRouterProvider, $compil
     templateUrl: 'home.html',
     title: 'Home',
     data:{
-      requireLogin:true
+      requireLogin:false
     }
   })
   .state('Module', {
